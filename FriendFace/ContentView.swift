@@ -9,7 +9,7 @@
 //Time Costing Mistakes so far:
 //-swift added random mutating to loadData func.
 //-didnt look closely at JSON file. No initial object. Just an array. Created a whole useless class wrapper that didnt work
-
+//this is a change that I made
 
 import SwiftUI
 //to make core Data objects conform to Codable. NOt sure why it is needed
