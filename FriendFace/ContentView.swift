@@ -10,6 +10,8 @@
 //-swift added random mutating to loadData func.
 //-didnt look closely at JSON file. No initial object. Just an array. Created a whole useless class wrapper that didnt work
 
+//hippity hoppatus
+
 import SwiftUI
 //to make core Data objects conform to Codable. NOt sure why it is needed
 extension CodingUserInfoKey {
